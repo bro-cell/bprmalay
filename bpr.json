@@ -30,107 +30,139 @@
 
 	"Data": [{
 			"id": 1,
-			"name_category": "Info BPR 2021",
-			"title": "Jenis-Jenis KUR BRI",
+			"name_category": "Bantuan Prihatin Rakyat",
+			"title": "Info BPR 2021",
 			"image": "file:///android_asset/image/logo.jpg",
-			"description": "Mengetahui jenis-jenis dari KUR BRI",
-			"link": "https://htmlpreview.github.io/?https://github.com/bro-cell/bprmalay/blob/main/1infobpr.html"
+			"description": "Bantuan Prihatin Rakyat",
+			"link": "file:///android_asset/guide/1infobpr.html"
 		},
 		{
 			"id": 2,
-			"name_category": "Kategori BPR 2021",
-			"title": "Bunga KUR BRI",
+			"name_category": "Bantuan Prihatin Rakyat",
+			"title": "Kategori BPR 2021",
 			"image": "file:///android_asset/image/logo.jpg",
-			"description": "Cara menghitung bunga KUR BRI",
-			"link": "https://htmlpreview.github.io/?https://github.com/bro-cell/bprmalay/blob/main/2kategoribpr.html"
+			"description": "Bantuan Prihatin Rakyat",
+			"link": "file:///android_asset/guide/2kategoribpr.html"
 		},
 		{
 			"id": 3,
-			"name_category": "BSH VS BPR 2021",
-			"title": "Syarat Pinjaman",
+			"name_category": "Bantuan Prihatin Rakyat",
+			"title": "BSH VS BPR 2021",
 			"image": "file:///android_asset/image/logo.jpg",
-			"description": "Sayarat yang dibutuhkan untuk pengajuan KUR BRI",
-			"link": "file:///android_asset/guide/3.html"
+			"description": "BSH VS BPR 2021",
+			"link": "file:///android_asset/guide/3perbezaanbpr.html"
 		},
 		{
 			"id": 4,
-			"name_category": "Syarat Kelayakan",
-			"title": "Tabel Pinjaman",
+			"name_category": "Bantuan Prihatin Rakyat",
+			"title": "Syarat Kelayakan",
 			"image": "file:///android_asset/image/logo.jpg",
-			"description": "Tabel Pinjaman KUR BRI",
-			"link": "file:///android_asset/guide/4.html"
+			"description": "Syarat Kelayakan",
+			"link": "file:///android_asset/guide/4syaratkelayakan.html"
 		},
 		{
 			"id": 5,
-			"name_category": "Semakan Status BPR 2021",
-			"title": "Cara Pengajuan Secara Offline",
+			"name_category": "Bantuan Prihatin Rakyat",
+			"title": "Semakan Status BPR 2021",
 			"image": "file:///android_asset/image/logo.jpg",
-			"description": "Cara pengajuan KUR BRI secara offline",
-			"link": "file:///android_asset/guide/5.html"
+			"description": "Semakan Status BPR 2021",
+			"link": "file:///android_asset/guide/5semakanstatusbpr.html"
 		},
 		{
 			"id": 6,
-			"name_category": "Permohonan Baru",
-			"title": "Cara Pengajuan Secara Online",
+			"name_category": "Bantuan Prihatin Rakyat",
+			"title": "Permohonan Baru",
 			"image": "file:///android_asset/image/logo.jpg",
-			"description": "Cara pengajuan KUR BRI secara online",
-			"link": "file:///android_asset/guide/6.html"
+			"description": "Permohonan Baru",
+			"link": "file:///android_asset/guide/6permohonanbaru.html"
 		},
 		{
 			"id": 7,
-			"name_category": "Log Masuk BPR 2021",
-			"title": "Cara dan Syarat Pengajuan KUR BRI",
+			"name_category": "Bantuan Prihatin Rakyat",
+			"title": "Log Masuk BPR 2021",
 			"image": "file:///android_asset/image/logo.jpg",
-			"description": "Cara dan syarat lengkap untuk menaftar pengajuan KUR BRI",
-			"link": "file:///android_asset/guide/7.html"
+			"description": "Log Masuk BPR 202",
+			"link": "file:///android_asset/guide/7logmasukbpr.html"
 		},
 		{
 			"id": 8,
-			"name_category": "Terlupa Kata Laluan",
-			"title": "Syarat Mengajukan KUR Super Mikro BRI Online",
+			"name_category": "Bantuan Prihatin Rakyat",
+			"title": "Terlupa Kata Laluan",
 			"image": "file:///android_asset/image/logo.jpg",
-			"description": "Langkah-langkah pengajuan KUR Super Mikro BRI secara online",
-			"link": "file:///android_asset/guide/8.html"
+			"description": "Terlupa Kata Laluan",
+			"link": "file:///android_asset/guide/8terlupakatalaluan.html"
 		},
 		{
 			"id": 9,
-			"name_category": "Cara Permohonan",
-			"title": "KUR Digital BRI",
+			"name_category": "Bantuan Prihatin Rakyat",
+			"title": "Cara Permohonan",
 			"image": "file:///android_asset/image/logo.jpg",
-			"description": "Ulasan tentang KUR Digital BRI",
-			"link": "file:///android_asset/guide/9.html"
+			"description": "Cara Permohonan",
+			"link": "file:///android_asset/guide/9carapermohonan.html"
 		},
 		{
 			"id": 10,
-			"name_category": "Senarai Dokumen Sokongan",
-			"title": "UPDATE Tabel Pinjaman Bank BRI - Brosur Angsuran KUR - Simulasi Cicilan",
+			"name_category": "Bantuan Prihatin Rakyat",
+			"title": "Senarai Dokumen Sokongan",
 			"image": "file:///android_asset/image/logo.jpg",
-			"description": "Apa saja yang perlu diketahui sebelum pengajuan KUR BRI",
-			"link": "file:///android_asset/guide/10.html"
+			"description": "Senarai Dokumen Sokongan",
+			"link": "file:///android_asset/guide/10senaraidokumen.html"
 		},
 		{
 			"id": 11,
-			"name_category": "Tarikh Bayaran BPR 2021",
-			"title": "UPDATE Tabel Pinjaman Bank BRI - Brosur Angsuran KUR - Simulasi Cicilan",
+			"name_category": "Bantuan Prihatin Rakyat",
+			"title": "Tarikh Bayaran BPR 2021",
 			"image": "file:///android_asset/image/logo.jpg",
-			"description": "Apa saja yang perlu diketahui sebelum pengajuan KUR BRI",
-			"link": "file:///android_asset/guide/10.html"
+			"description": "Tarikh Bayaran BPR 2021",
+			"link": "file:///android_asset/guide/11tarikhbayaranbpr.html"
 		},
 		{
 			"id": 12,
-			"name_category": "Soalan Lazim BPR 2021",
-			"title": "UPDATE Tabel Pinjaman Bank BRI - Brosur Angsuran KUR - Simulasi Cicilan",
+			"name_category": "Bantuan Prihatin Rakyat",
+			"title": "Soalan Lazim BPR 2021",
 			"image": "file:///android_asset/image/logo.jpg",
-			"description": "Apa saja yang perlu diketahui sebelum pengajuan KUR BRI",
-			"link": "file:///android_asset/guide/10.html"
+			"description": "Soalan Lazim BPR 2021",
+			"link": "file:///android_asset/guide/12soallazimbpr.html"
 		},
 		{
 			"id": 13,
-			"name_category": "Borang Permohonan",
-			"title": "UPDATE Tabel Pinjaman Bank BRI - Brosur Angsuran KUR - Simulasi Cicilan",
+			"name_category": "Bantuan Prihatin Rakyat",
+			"title": "Borang Permohonan",
 			"image": "file:///android_asset/image/logo.jpg",
-			"description": "Apa saja yang perlu diketahui sebelum pengajuan KUR BRI",
-			"link": "http://htmlpreview.github.io/?https://raw.githubusercontent.com/bro-cell/bprmalay/main/13borangpermohonan.html"
+			"description": "Tunggu untuk load borang - PRINT jika perlu",
+			"link": "file:///android_asset/guide/13borangpermohonan.html"
+		},
+		{
+			"id": 14,
+			"name_category": "Bantuan Prihatin Rakyat",
+			"title": "Borang Serahan Dokumen Penyokong",
+			"image": "file:///android_asset/image/logo.jpg",
+			"description": "Tunggu untuk load borang - PRINT jika perlu",
+			"link": "file:///android_asset/guide/14borangserahansokongan.html"
+		},
+		{
+			"id": 15,
+			"name_category": "Bantuan Prihatin Rakyat",
+			"title": "Borang Kemaskini Maklumat Asas",
+			"image": "file:///android_asset/image/logo.jpg",
+			"description": "Tunggu untuk load borang - PRINT jika perlu",
+			"link": "file:///android_asset/guide/15borangmaklumatasas.html"
+		},
+		{
+			"id": 16,
+			"name_category": "Bantuan Prihatin Rakyat",
+			"title": "Borang Pembatalan Permohonan",
+			"image": "file:///android_asset/image/logo.jpg",
+			"description": "Tunggu untuk load borang - PRINT jika perlu",
+			"link": "file:///android_asset/guide/16borangpembatalan.html"
+		},
+		{
+			"id": 17,
+			"name_category": "Bantuan Prihatin Rakyat",
+			"title": "HOTLINE",
+			"image": "file:///android_asset/image/logo.jpg",
+			"description": "HOTLINE",
+			"link": "file:///android_asset/guide/17hotline.html"
 		}
 	]
 }
