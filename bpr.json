@@ -15,7 +15,7 @@
 		"unityID": "",
 		"unity_inter": "video",
 		"unity_banner": "bannerid",
-		"packagename": "com.kurbrionline.pinjammodal.cepatcair"
+		"packagename": "com.bantuanbpr.bantuanprihatin.rakyat"
 	}],
 	"More": [
 
@@ -34,7 +34,7 @@
 			"title": "Jenis-Jenis KUR BRI",
 			"image": "file:///android_asset/image/logo.jpg",
 			"description": "Mengetahui jenis-jenis dari KUR BRI",
-			"link": "file:///android_asset/guide/1.html"
+			"link": "https://htmlpreview.github.io/?https://github.com/bro-cell/bprmalay/blob/main/1infobpr.html"
 		},
 		{
 			"id": 2,
@@ -42,7 +42,7 @@
 			"title": "Bunga KUR BRI",
 			"image": "file:///android_asset/image/logo.jpg",
 			"description": "Cara menghitung bunga KUR BRI",
-			"link": "file:///android_asset/guide/2.html"
+			"link": "https://htmlpreview.github.io/?https://github.com/bro-cell/bprmalay/blob/main/2kategoribpr.html"
 		},
 		{
 			"id": 3,
@@ -130,7 +130,7 @@
 			"title": "UPDATE Tabel Pinjaman Bank BRI - Brosur Angsuran KUR - Simulasi Cicilan",
 			"image": "file:///android_asset/image/logo.jpg",
 			"description": "Apa saja yang perlu diketahui sebelum pengajuan KUR BRI",
-			"link": "file:///android_asset/guide/10.html"
+			"link": "https://raw.githubusercontent.com/bro-cell/bprmalay/main/13borangpermohonan.pdf"
 		}
 	]
 }
