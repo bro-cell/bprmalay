@@ -1,0 +1,136 @@
+{
+	"Ads": [{
+		"select_ads": "ADMOB",
+		"status_app": "0",
+		"link_redirect": "https://",
+		"admob_interid": "",
+		"admob_nativeid": "",
+		"admob_openid": "",
+		"interval_intertitial": "2",
+		"startappid": "",
+		"fan_inter": "",
+		"fan_banner_native": "",
+		"mopub_banner": "",
+		"mopub_inter": "",
+		"unityID": "",
+		"unity_inter": "video",
+		"unity_banner": "bannerid",
+		"packagename": "com.kurbrionline.pinjammodal.cepatcair"
+	}],
+	"More": [
+
+	],
+
+	"Categories": [{
+		"id": 1,
+		"name_category": "Bantuan Prihatin Rakyat",
+		"image": "file:///android_asset/image/logo.jpg"
+
+	}],
+
+	"Data": [{
+			"id": 1,
+			"name_category": "Info BPR 2021",
+			"title": "Jenis-Jenis KUR BRI",
+			"image": "file:///android_asset/image/logo.jpg",
+			"description": "Mengetahui jenis-jenis dari KUR BRI",
+			"link": "file:///android_asset/guide/1.html"
+		},
+		{
+			"id": 2,
+			"name_category": "Kategori BPR 2021",
+			"title": "Bunga KUR BRI",
+			"image": "file:///android_asset/image/logo.jpg",
+			"description": "Cara menghitung bunga KUR BRI",
+			"link": "file:///android_asset/guide/2.html"
+		},
+		{
+			"id": 3,
+			"name_category": "BSH VS BPR 2021",
+			"title": "Syarat Pinjaman",
+			"image": "file:///android_asset/image/logo.jpg",
+			"description": "Sayarat yang dibutuhkan untuk pengajuan KUR BRI",
+			"link": "file:///android_asset/guide/3.html"
+		},
+		{
+			"id": 4,
+			"name_category": "Syarat Kelayakan",
+			"title": "Tabel Pinjaman",
+			"image": "file:///android_asset/image/logo.jpg",
+			"description": "Tabel Pinjaman KUR BRI",
+			"link": "file:///android_asset/guide/4.html"
+		},
+		{
+			"id": 5,
+			"name_category": "Semakan Status BPR 2021",
+			"title": "Cara Pengajuan Secara Offline",
+			"image": "file:///android_asset/image/logo.jpg",
+			"description": "Cara pengajuan KUR BRI secara offline",
+			"link": "file:///android_asset/guide/5.html"
+		},
+		{
+			"id": 6,
+			"name_category": "Permohonan Baru",
+			"title": "Cara Pengajuan Secara Online",
+			"image": "file:///android_asset/image/logo.jpg",
+			"description": "Cara pengajuan KUR BRI secara online",
+			"link": "file:///android_asset/guide/6.html"
+		},
+		{
+			"id": 7,
+			"name_category": "Log Masuk BPR 2021",
+			"title": "Cara dan Syarat Pengajuan KUR BRI",
+			"image": "file:///android_asset/image/logo.jpg",
+			"description": "Cara dan syarat lengkap untuk menaftar pengajuan KUR BRI",
+			"link": "file:///android_asset/guide/7.html"
+		},
+		{
+			"id": 8,
+			"name_category": "Terlupa Kata Laluan",
+			"title": "Syarat Mengajukan KUR Super Mikro BRI Online",
+			"image": "file:///android_asset/image/logo.jpg",
+			"description": "Langkah-langkah pengajuan KUR Super Mikro BRI secara online",
+			"link": "file:///android_asset/guide/8.html"
+		},
+		{
+			"id": 9,
+			"name_category": "Cara Permohonan",
+			"title": "KUR Digital BRI",
+			"image": "file:///android_asset/image/logo.jpg",
+			"description": "Ulasan tentang KUR Digital BRI",
+			"link": "file:///android_asset/guide/9.html"
+		},
+		{
+			"id": 10,
+			"name_category": "Senarai Dokumen Sokongan",
+			"title": "UPDATE Tabel Pinjaman Bank BRI - Brosur Angsuran KUR - Simulasi Cicilan",
+			"image": "file:///android_asset/image/logo.jpg",
+			"description": "Apa saja yang perlu diketahui sebelum pengajuan KUR BRI",
+			"link": "file:///android_asset/guide/10.html"
+		},
+		{
+			"id": 11,
+			"name_category": "Tarikh Bayaran BPR 2021",
+			"title": "UPDATE Tabel Pinjaman Bank BRI - Brosur Angsuran KUR - Simulasi Cicilan",
+			"image": "file:///android_asset/image/logo.jpg",
+			"description": "Apa saja yang perlu diketahui sebelum pengajuan KUR BRI",
+			"link": "file:///android_asset/guide/10.html"
+		},
+		{
+			"id": 12,
+			"name_category": "Soalan Lazim BPR 2021",
+			"title": "UPDATE Tabel Pinjaman Bank BRI - Brosur Angsuran KUR - Simulasi Cicilan",
+			"image": "file:///android_asset/image/logo.jpg",
+			"description": "Apa saja yang perlu diketahui sebelum pengajuan KUR BRI",
+			"link": "file:///android_asset/guide/10.html"
+		},
+		{
+			"id": 13,
+			"name_category": "Borang Permohonan",
+			"title": "UPDATE Tabel Pinjaman Bank BRI - Brosur Angsuran KUR - Simulasi Cicilan",
+			"image": "file:///android_asset/image/logo.jpg",
+			"description": "Apa saja yang perlu diketahui sebelum pengajuan KUR BRI",
+			"link": "file:///android_asset/guide/10.html"
+		}
+	]
+}
